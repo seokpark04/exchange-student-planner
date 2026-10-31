@@ -1,0 +1,6 @@
+{
+  "name": "Global Buddy Packager",
+  "description": "해외 교환학생 및 유학 준비생을 위한 D-Day 기반 올인원 타임라인 및 체크리스트 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
